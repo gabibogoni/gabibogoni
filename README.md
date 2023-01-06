@@ -1,5 +1,5 @@
 
- <img align="right" width="400" height="400" src="http://gabrielibogoni.com/imagens/eu.jpeg">
+ <img align="right" width="300" height="400" src="http://gabrielibogoni.com/imagens/eu.jpeg">
 
 # Olá, bem vindo(a)!
 ## Sou Gabrieli Bogoni
