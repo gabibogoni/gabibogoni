@@ -2,9 +2,6 @@
 # Welcome!
 ## I'm Gabrieli Bogoni
  
-
-### I'm currently studying Systems Analysis and Development, and i've been focusing my studies in web development.
- 
 - 🔭: I'm currently working at Renault Group
 - 🌱: I’m currently learning React.js
 
