@@ -3,8 +3,7 @@
 - 🔭 I'm currently working at Renault Group as an Intern
 - 🌱 I’m currently learning React.js
 
-I'm currently studying Systems Analysis and Development, and i've been focusing my studiesin web development, doing some projects with
-HTML5, CSS3, JavaScript, React.js and a few frameworks.
+I've been focusing my studies in web development, doing some projects with HTML5, CSS3, JavaScript, React.js and a few frameworks.
 
 I have a degree in Foreign Trade but it was with the development of web applications that I discoverred a new world where I have more
 freedom to create and reinvent myself.
