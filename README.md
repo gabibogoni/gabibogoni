@@ -1,9 +1,9 @@
+<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hacktiv8-coding-codingfromhome-fromhome-M9gbBd9nbDrOTu1Mqx">via GIPHY</a></p>
 
-# Welcome!
-## I'm Gabrieli Bogoni
+## 👩‍💻 About me: 
  
-- 🔭: I'm currently working at Renault Group
-- 🌱: I’m currently learning React.js
+- 🔭 I'm currently working at Renault Group as an Intern
+- 🌱 I’m currently learning React.js
 
 I'm currently studying Systems Analysis and Development, and i've been focusing my studiesin web development, doing some projects with
 HTML5, CSS3, JavaScript, React.js and a few frameworks.
