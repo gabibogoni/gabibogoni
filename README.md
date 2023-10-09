@@ -7,7 +7,7 @@
 
 ### Sou estudante de desenvolvimento web
  
-- :briefcase: Tenho atuado como freelancer
+- :briefcase: Estagiária na Renault
 - :star: Focada no desenvolvimento de aplicações web
 
 
