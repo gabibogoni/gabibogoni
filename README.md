@@ -1,6 +1,6 @@
 ## 👩‍💻 About me: 
  
-- 🔭 I'm currently working at Renault Group as an Intern
+- 🔭 I'm currently working at Stefanini Group as an Agile Business Analyst
 - 🌱 Currently learning React.js
 
 I've been focusing my studies in web development, doing some projects with HTML5, CSS3, JavaScript, React.js and a few frameworks.
